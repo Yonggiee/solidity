@@ -1,0 +1,7 @@
+1. What happens if you dont declare memory as a parameter?
+2. uint != uint32 by default?
+3. what is calldata
+4. Not sure when to return memory ` function getZombiesByOwner(address _owner) external view returns(uint[] memory) 
+5. Can you choose your own node to run transactions?
+6. how to test it properly
+7. struct packing

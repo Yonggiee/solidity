@@ -4,7 +4,7 @@ Non-decentrailized
 Gas fees -> fast
 - Because running functions costs real money for your users, code optimization is much more important in Ethereum than in other programming languages. If your code is sloppy, your users are going to have to pay a premium to execute your functions — and this could add up to millions of dollars in unnecessary fees across thousands of users.
 
-Struct packing to save gas
+Struct packing to save gas *** 
 - Normally there's no benefit to using these sub-types because Solidity reserves 256 bits of storage regardless of the uint size. For example, using uint8 instead of uint (uint256) won't save you any gas.
 But there's an exception to this: inside structs.
 
