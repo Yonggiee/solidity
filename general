@@ -1,0 +1,12 @@
+Ethereum
+- uses proof of stake instead of proof of work
+- proof of work find nonce that can get certain number of leading zeros
+
+Ethereum Virtual Machine, or EVM)
+- state everyone on the Ethereum network agrees on
+- Requests for computation are called transaction requests; the record of all transactions and the EVM's present state gets stored on the blockchain, which in turn is stored and agreed upon by all nodes.
+- accounts and account balances are stored in a big table in the EVM; they are a part of the overall EVM state
+
+Smart contracts
+- application developers upload programs (reusable snippets of code) into EVM storage, and when users make requests to execute these code snippets with varying parameters. We call the programs uploaded to and executed by the network smart contracts.
+- with smart contracts, developers can build and deploy arbitrarily complex user-facing apps and services such as: marketplaces, financial instruments, games

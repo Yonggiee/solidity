@@ -5,3 +5,9 @@
 5. Can you choose your own node to run transactions?
 6. how to test it properly
 7. struct packing
+8. is there "interfaces" in solidity
+9. is contracts fields private or public
+
+
+others
+1.  OpenZeppelin ERC721 contract after this tutorial.
